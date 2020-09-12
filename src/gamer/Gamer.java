@@ -15,7 +15,7 @@ public class Gamer {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World! From dr.lahouari.ghouti@gmail.com");
+        System.out.println("Hello World! From CS102_PSU");
     }
     
 }
